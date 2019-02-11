@@ -1,4 +1,5 @@
 #include <iostream>
+#include "hw_fixed.cc"
 
 int deviation( int* a, int n);
 
